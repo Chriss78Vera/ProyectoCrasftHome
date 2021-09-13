@@ -26,12 +26,12 @@
   
  # 2. Estructura y arquitectura
  
- -Arquitectura
+ **Arquitectura**
  
  La arquitectura del sistema web se muestra en la siguiente imagen.
  ![MVC](./Images/MVC.png)
  
- -Estructura
+ **Estructura**
  
  
  Los datos que se registran en Firebase toman la siguiente estructura.
