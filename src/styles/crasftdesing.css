@@ -1,0 +1,158 @@
+/*
+DISEÑO DEL LAYOUT
+*/
+.head{
+  background-color: white;
+}
+.action {
+  margin-top: "1rem";
+}
+/*
+FOOTER
+*/
+.content{
+  min-height: 100vh;
+  padding: 10px;
+  background: linear-gradient(180deg, rgba(241,206,131,1) 0%, rgba(250,212,179,1) 54%, rgba(245,228,221,1) 100%);
+}
+.footer {
+    background-color: #252527;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: "100px";
+    
+}
+.imagecarrousel{
+ padding-left: 100px;
+}
+.copy{
+  text-align: center;
+  color: white;
+  padding: 40px 0px 20px;
+  font-size: 12px;
+}
+.text{
+  text-align: center;
+  color: white;
+  font-size: 15px;
+}
+.FB{
+  margin-top: 15px;
+  font-size: 40px;
+  color: #3ae21f
+}
+.IG{
+  margin-top: 15px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 40px;
+  color: #3ae21f
+}
+.EM{
+  margin-top: 15px;
+  font-size: 40px;
+  color: #3ae21f
+}
+.SH{
+  font-size: 15px;
+}
+/*
+basket
+*/
+.baskets{
+  font-size: "50px";
+  font-family: 'Courier New';
+}
+/*
+image
+*/
+.imageR {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.imageS {
+  padding-top: 200px;
+  padding-bottom: 50px;
+}
+.image {
+  padding-left: 10px;
+  width: 300px;
+  height: 200px;
+}
+.imageCarousels{
+  width: 100vw;
+}
+.imageLog{
+  min-height: 50vh;
+}
+.txtEm{ 
+  font-size: 15px;
+}
+.contentLogin{
+  min-height: 100vh;
+  margin-left: 50px;
+  margin-right: 50px;
+  
+}
+.layout{
+  background: white
+}
+.contentRegister{
+  min-height: 100vh;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.contentLogins{
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;  
+  background-size: cover;
+  background-image: url("../images/Login.png");
+}
+/* 
+Logeo
+*/
+#components-form-demo-normal-login .login-form {
+  max-width: 300px;
+}
+#components-form-demo-normal-login .login-form-forgot {
+  float: right;
+}
+#components-form-demo-normal-login .ant-col-rtl .login-form-forgot {
+  float: left;
+}
+#components-form-demo-normal-login .login-form-button {
+  width: 100%;
+}
+/*
+Factura
+*/
+.steps-content {
+  min-height: 200px;
+  margin-top: 16px;
+  text-align: center;
+  background-color: #fafafa;
+  border: 1px dashed #e9e9e9;
+  border-radius: 2px;
+}
+
+.steps-action {
+  margin-top: 24px;
+}
+
+.titleFac{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.separacion{
+  display: flex;
+  justify-content: space-between;
+}
+.search{
+  float: 'left';  
+}
+.card{
+  border: 3px solid black;
+}
