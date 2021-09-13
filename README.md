@@ -29,6 +29,7 @@
  -Arquitectura
  
  La arquitectura del sistema web se muestra en la siguiente imagen.
+ ![MVC](./Images/MVC.png)
  
  -Estructura
  
@@ -37,6 +38,33 @@
  
  # 3. Funcionalidades principales
  
+ 
+ El sistema web 'CraftsHome' posee las siguientes funcionalidades mas destacadas:
+ 
+ 
+   **Registro de un usuario a través de un formulario**
+     
+ El usuario puede realizar su registro en la tienda en linea mediante el uso de su correo electrónico y genera una nueva contraseña para el acceso al sistema 'CraftsHome'. Esta sección es posible por la activacion del metodo de autentificación en Firebase.
+    
+    
+   **Inicio de sesión**
+   
+   El usuario nuevo o ya existente puede ingresar a la pagina principal y visualizar los productos que estan siendo ofertados por lo diferentes artesanos.
+    
+    
+   **Visualización de un catálogo de productos**
+
+En caso de que al usuario tenga interes en algun producto en especial, el puede acceder a un despliegue de las características del producto seleccionado o a su vez puede visualizar mas productos segun el local de su elección.
+    
+   **Realizar un pedido de un producto**
+    
+Cuando el cliente se decide por la compra de uno o varios productos, estos se almacenan en un carrito de compras y ahí existe la opcion de 'Comprar'. En este momento incia la compra y el sistema genera una factura con los datos que ingrese el cliente.
+    
+   **Factura electrónica de la compra**
+ 
+Una vez finaliza la compra, el sistema envia la factura al correo electrónico registrado.
+    
+
  
  # 4. Versiones de desarrollo
  
