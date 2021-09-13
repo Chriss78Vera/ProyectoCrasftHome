@@ -15,7 +15,8 @@
   **WEBSTORM**
       
   Entorno de desarrollo integrado que admite javascript, el lenguaje que usa el sistema ‘CraftsHome’. Esta herramienta facilita la detección de errores para evitar falencias en el código. 
-  **VSCODE**
+ 
+ **VSCODE**
   
   Editor de código adicional a la herramienta de WebStorm, se usa por ser gratuito y gestiona extensiones personalizadas, facilita la escritura de código por su autocompletado y admite múltiples lenguajes de programación.
   
