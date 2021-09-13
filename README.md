@@ -1,4 +1,4 @@
-# ProyectoCrasftHome
+# Proyecto CrasftHome
   El siguiente proyecto muestra el desarrollo de un sistema web que permite la compra y venta de    productos artesanales usando la metodolgia de una tienda en linea. 
   
    **Video demostrativo:** 
@@ -25,3 +25,31 @@
   La herramienta proporciona bases de datos en tiempo real que se almacenan en la nube y usan el formato json. La facilidad que brinda esta herramienta es el alojamiento y disposición de la información de forma fácil y se actualiza de inmediato sin necesidad de manipulación manual. Para nuestro sistema web toma la función de autentificador para un inicio de sesión o registro, mediante notificaciones al correo electrónico de los usuarios registrados.
   
  # 2. Estructura y arquitectura
+ 
+ -Arquitectura
+ 
+ La arquitectura del sistema web se muestra en la siguiente imagen.
+ 
+ -Estructura
+ 
+ 
+ Los datos que se registran en Firebase toman la siguiente estructura.
+ 
+ # 3. Funcionalidades principales
+ 
+ 
+ # 4. Versiones de desarrollo
+ 
+ # 5. Instalación
+ 
+ # 6. Anexos
+ 
+ 
+ En el siguiente enlace se halla la documentacion tales como:
+ 
+ 
+    -Manual Técnico
+    -Manual de Instalación
+    -Informe Técnico
+    
+    Enlace: 
