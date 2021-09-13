@@ -36,6 +36,8 @@
  
  Los datos que se registran en Firebase toman la siguiente estructura.
  
+ ![Estructura-BDD](./Images/Estructura-BDD.jpeg)
+ 
  # 3. Funcionalidades principales
  
  
@@ -45,20 +47,31 @@
    **Registro de un usuario a través de un formulario**
      
  El usuario puede realizar su registro en la tienda en linea mediante el uso de su correo electrónico y genera una nueva contraseña para el acceso al sistema 'CraftsHome'. Esta sección es posible por la activacion del metodo de autentificación en Firebase.
-    
-    
+ 
+ ![Registro-NuevoUsuario](./Images/Registro-NuevoUsuario.jpeg)
+ 
+     
    **Inicio de sesión**
    
    El usuario nuevo o ya existente puede ingresar a la pagina principal y visualizar los productos que estan siendo ofertados por lo diferentes artesanos.
     
+ ![Inicio-Sesion](./Images/Inicio-Sesion.jpeg)
     
    **Visualización de un catálogo de productos**
 
 En caso de que al usuario tenga interes en algun producto en especial, el puede acceder a un despliegue de las características del producto seleccionado o a su vez puede visualizar mas productos segun el local de su elección.
+
+ ![Pagina-Principal](./Images/Pagina-Principal.jpeg)
     
    **Realizar un pedido de un producto**
     
-Cuando el cliente se decide por la compra de uno o varios productos, estos se almacenan en un carrito de compras y ahí existe la opcion de 'Comprar'. En este momento incia la compra y el sistema genera una factura con los datos que ingrese el cliente.
+Cuando el cliente se decide por la compra de uno o varios productos, estos se almacenan en un carrito de compras y ahí existe la opcion de 'Comprar'.
+
+ ![Carrito-Compra](./Images/Carrito-Compra.jpeg)
+ 
+ En este momento incia la compra y el sistema genera una factura con los datos que ingrese el cliente.
+ 
+ ![Proceso-Compra](./Images/Proceso-Compra.jpeg)
     
    **Factura electrónica de la compra**
  
