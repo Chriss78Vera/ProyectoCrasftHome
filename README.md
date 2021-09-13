@@ -76,7 +76,8 @@ Cuando el cliente se decide por la compra de uno o varios productos, estos se al
    **Factura electrónica de la compra**
  
 Una vez finaliza la compra, el sistema envia la factura al correo electrónico registrado.
-    
+
+![factura](./Images/factura.png)
 
  
  # 4. Versiones de desarrollo
