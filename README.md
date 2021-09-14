@@ -89,6 +89,9 @@ Una vez finaliza la compra, el sistema envia la factura al correo electrónico r
   
    >Version 0.1.0
    
+  **3. Nodejs**
+   >Version 16.6.0
+   
  # 5. Instalación
  
   **1. Clonar el repositorio**
