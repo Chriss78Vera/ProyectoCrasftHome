@@ -105,8 +105,9 @@ Una vez finaliza la compra, el sistema envia la factura al correo electrónico r
  En el siguiente enlace se halla la documentacion tales como:
  
  
-    -Manual Técnico
-    -Manual de Instalación
-    -Informe Técnico
+ Manual Técnico
+ Manual de Instalación
+ Informe Técnico
+ >Enlace: https://github.com/Chriss78Vera/ProyectoCrasftHome/tree/main/Documentacion 
     
-    Enlace: <a href="https://github.com/Chriss78Vera/ProyectoCrasftHome/tree/main/Documentacion">Documentos del Sistema</a>
+
