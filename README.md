@@ -1,4 +1,4 @@
-# Proyecto CrasftHome
+# Proyecto CraftsHome
   El siguiente proyecto muestra el desarrollo de un sistema web que permite la compra y venta de    productos artesanales usando la metodolgia de una tienda en linea. 
   
    **Video demostrativo:** 
@@ -86,14 +86,17 @@ Una vez finaliza la compra, el sistema envia la factura al correo electrónico r
  
   **1. Clonar el repositorio**
   
-  git clone https://github.com/Chriss78Vera/ProyectoCrasftHome.git 
+  >git clone https://github.com/Chriss78Vera/ProyectoCrasftHome.git
+  >cd ProyectoCrasftHome 
   
   **2. Instalar dependencias**
   
-  npm install 
-  **3. Levantar el Servidor
+  >npm install 
   
-  npm start
+  
+  **3. Levantar el Servidor**
+  
+  >npm start
  
  # 6. Anexos
  
