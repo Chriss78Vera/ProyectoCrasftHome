@@ -108,8 +108,6 @@ Una vez finaliza la compra, el sistema envia la factura al correo electrónico r
  Manual Técnico
  
  
- Manual de Instalación
- 
  
  Informe Técnico
  
