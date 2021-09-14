@@ -87,6 +87,7 @@ Una vez finaliza la compra, el sistema envia la factura al correo electrónico r
   **1. Clonar el repositorio**
   
   >git clone https://github.com/Chriss78Vera/ProyectoCrasftHome.git
+  
   >cd ProyectoCrasftHome 
   
   **2. Instalar dependencias**
