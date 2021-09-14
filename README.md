@@ -84,6 +84,17 @@ Una vez finaliza la compra, el sistema envia la factura al correo electrónico r
  
  # 5. Instalación
  
+  **1. Clonar el repositorio**
+  
+  git clone https://github.com/Chriss78Vera/ProyectoCrasftHome.git 
+  
+  **2. Instalar dependencias**
+  
+  npm install 
+  **3. Levantar el Servidor
+  
+  npm start
+ 
  # 6. Anexos
  
  
