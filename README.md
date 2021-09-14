@@ -1,7 +1,7 @@
 # Proyecto CraftsHome
   El siguiente proyecto muestra el desarrollo de un sistema web que permite la compra y venta de    productos artesanales usando la metodolgia de una tienda en linea. 
   
-   **Video demostrativo:** 
+   **Video demostrativo:** https://www.youtube.com/watch?v=KCcXN6p-1Mg
    
    **Realizado por:**
    
