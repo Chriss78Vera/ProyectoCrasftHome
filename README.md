@@ -81,7 +81,10 @@ Una vez finaliza la compra, el sistema envia la factura al correo electrónico r
 
  
  # 4. Versiones de desarrollo
- 
+  **1. Visual Estudio Code 
+   >Version 1.60.0 
+  **2. React 
+   >Version 0.1.0
  # 5. Instalación
  
   **1. Clonar el repositorio**
